@@ -1,4 +1,4 @@
-package app
+package empty_strings
 
 import (
 	"encoding/json"
